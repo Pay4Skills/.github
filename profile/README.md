@@ -1,6 +1,6 @@
 ![Paidlancer](/profile/paidlancer-logo-long-green.png)
 
-# [paidlancer.dev](https://www.paidlancer.dev/)
+# Paidlancer [paidlancer.dev](https://www.paidlancer.dev/)
 
 A place where freelancers are empowered to get paid for their hard work
 without having to worry about unjustified backdate refunds!
