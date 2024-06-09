@@ -1,4 +1,4 @@
-![Paidlancer](/profile/paidlancer-logo-long-green.png)
+![Paidlancer](/profile/paidlancer-logo-long-teal-2.png)
 
 # Paidlancer [paidlancer.dev](https://www.paidlancer.dev/)
 
