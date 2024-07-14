@@ -18,10 +18,10 @@ Making it open source is an added bonus, reflecting a belief in transparency and
 However, it is essential to note that the development process will not be slowed down or halted to grow the open source aspect. The priority remains the continuous and efficient development of the platform.
 
 ## Active Repositories
-There are two main active repositories in the PaidlanceDev GitHub organization:
+There are two main active repositories in the **Paidlance** GitHub organization:
 
-- [paidlancedev](https://github.com/PaidlanceDev/paidlancedev): This repository uses Angular
-- [paidlancework](https://github.com/PaidlanceDev/paidlancework): This repository uses Next.js
+- [paidlancedev](https://github.com/Paidlance/paidlancedev): This repository uses Angular
+- [paidlancework](https://github.com/Paidlance/paidlancework): This repository uses Next.js
 
 Each repository offers the same features, as we've decided to include both frameworks, ensuring developers can contribute using their preferred technology stack without limitation.
 
@@ -29,4 +29,4 @@ Eventually, the more robustly developed option will emerge as the primary platfo
 
 ## Contributing
 
-We welcome contributions from the community to enhance Paidlance! To get involved, please refer to the contributing guidelines for [paidlancedev](https://github.com/PaidlanceDev/paidlancedev/blob/main/CONTRIBUTING.md) and [paidlancework](https://github.com/PaidlanceDev/paidlancework/blob/main/CONTRIBUTING.md). Whether you're interested in code improvements, bug fixes, or new features, your contributions are greatly appreciated and will help shape the future of the platform.
+We welcome contributions from the community to enhance Paidlance! To get involved, please refer to the contributing guidelines for [paidlancedev](https://github.com/Paidlance/paidlancedev/blob/main/CONTRIBUTING.md) and [paidlancework](https://github.com/Paidlance/paidlancework/blob/main/CONTRIBUTING.md). Whether you're interested in code improvements, bug fixes, or new features, your contributions are greatly appreciated and will help shape the future of the platform.
